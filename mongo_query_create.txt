@@ -1,0 +1,14 @@
+{
+"orderId": "004",
+  "brand": "Honda",
+  "model": "Amaze",
+  "price": "800000",
+  "customerName": "Cust Name",
+  "customerContactNum": "9988773322",
+  "cusotmerEmail": "xyz@gmail.com",
+  "customerAddress": "27, XXX street, YYY ",
+  "city": "XXXX",
+  "showroom": "Showrrom 1",
+  "dealerContactNum": "11223344778",
+  "dealerEmail": "yyy@gmail.com"
+}
